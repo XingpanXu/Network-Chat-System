@@ -1,1 +1,8 @@
-https://blog.csdn.net/weixin_43164603/article/details/107301548
+参考https://blog.csdn.net/weixin_43164603/article/details/107301548 并增加离线留言功能
+
+使用C或Java语言，实现一个具有实时通信功能的网络聊天系统
+系统应该具有如下功能：
+（1）一对一通信 （必选功能）
+（2） 用户注册和登录
+（3）在线群聊
+（4）离线留言
